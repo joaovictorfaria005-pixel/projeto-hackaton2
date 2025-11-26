@@ -67,5 +67,3 @@ Para uma visão prática do funcionamento do sistema, assista ao vídeo de demon
 - Integração com APIs meteorológicas para obtenção de dados em tempo real  
 - Implementação de sistema de alertas personalizados por cidade  
 - Otimização da interface gráfica e da experiência do usuário  
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
