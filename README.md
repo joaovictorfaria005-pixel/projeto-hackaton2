@@ -1,0 +1,8 @@
+-A pasta "assets" esta sendo usada para guardar as pastas do "css" e "js(JavaScript)"
+-A pasta "config" esta sendo usada para guardar a configuração do Banco de Dados
+-A pasta "SQL" esta sendo usada para guardar o codigo do banco de dados
+-O cadastro.php como o proprio nome diz ele é um cadastro para saber seu email e sua cidade 
+-O index.php é o login para o site usando apenas seu endereço de email e sua senha
+-O mapa.php nesta pagina é mostrado um mapa das cidades, com o mapa centralizado na cidade que foi escolhida no login do usuario
+-O passo_a_passo.php a pagina mostra um passo a passo basico sobre oque fazer em caso de riscos de tornados e oque faer depois de acontecer
+-O prevensaoSite.php nesta pagina é mostrado os dados da cidade selecionada mostrando a velocidade dos ventos, umidade, etc.
